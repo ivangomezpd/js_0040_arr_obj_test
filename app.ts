@@ -3,7 +3,7 @@
 // implementar la funciona sumArr que recibe un arreglo de numeros y retorna 
 // la suma de todos los elementos del arreglo
 function sumaArr(arr) {
-    return arr.reduce((acc, el) => acc + el, 0);
+    
 }
 
 
@@ -13,7 +13,7 @@ function sumaArr(arr) {
 // y retorna un arreglo con los elementos que son mayores al numero recibido
 
 function mayores(arr, num) {
-    return arr.filter(el => el > num);
+   
 }
 
 
